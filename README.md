@@ -19,6 +19,7 @@
 <a href = "mailto:caroline.ana.n.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/anacarolinens" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- </div>
+ </div></br></br></br>
 
 
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fanacarolinens%2Fanacarolinens.git"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanacarolinens%2Fanacarolinens.git&labelColor=%23000000&countColor=%23ba68c8&style=flat-square" /></a>
