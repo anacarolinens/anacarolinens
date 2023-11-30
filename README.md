@@ -32,10 +32,11 @@ Here are some ideas to get you started:
   🦄 Linguagens:
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
+  <img align="center" alt="Ana-C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="30"/>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ana-Java" width=40 height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
   
   
@@ -43,7 +44,8 @@ Here are some ideas to get you started:
 
 <p align="left">
     :star: Frameworks:
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Ana-Angular" width=40 height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="Ana-nodejs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
           
 </p><br/>
 
@@ -51,6 +53,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   💼 Ferramentas:
+  <img align="center" alt="Ana-GitHub" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   
    
 
@@ -59,6 +62,9 @@ Here are some ideas to get you started:
 
 <p align="left">
  :memo: Estudando: 
+ <img align="center" alt="Ana-VueJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
+ <img align="center" alt="Ana-ElectronJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
+ 
   
 </p><br/>
 
