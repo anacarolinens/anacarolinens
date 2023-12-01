@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <a href="https://mail.google.com/mail/" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-  <a href="www.linkedin.com/in/anacarolinens" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/anacarolinens" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
   <a href="https://api.whatsapp.com/send?phone=5568999513421" title="WhatsApp">
