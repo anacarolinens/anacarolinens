@@ -38,8 +38,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Ana-Java" width=40 height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
-  
-</p><br/>
+
+</p>
 
 <p align="left">
     ⭐ Frameworks:
@@ -48,28 +48,21 @@ Here are some ideas to get you started:
   <img align="center" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"  />
   <img align="center" alt="tailwind" width="40" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 
-</p><br/>
-
-
+</p>
 
 <p align="left">
   💼 Tools:
   <img align="center" alt="Ana-GitHub" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   <img align="center" alt="figma" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="postman" width="35" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
- 
 
-
-</p><br/>
-
+</p>
 
 <p align="left">
  📚 Studying: 
  <img align="center" alt="Ana-VueJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
  <img align="center" alt="Ana-ElectronJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
- 
-  
-</p><br/>
+</p>
 
 ##  :chart_with_upwards_trend: Status
 
@@ -77,7 +70,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anacarolinens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anacarolinens&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-
 
 ## :busts_in_silhouette: Contact
 <p align="left">
