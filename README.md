@@ -55,8 +55,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ana-GitHub" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   <img align="center" alt="figma" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="postman" width="35" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
-</p>
+  </p>
 
 <p align="left">
  📚 Studying: 
