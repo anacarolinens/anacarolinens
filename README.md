@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💜 Olá, eu sou a <strong>Ana Caroline.</strong>
+# 💜 Hi, I'm <strong>Ana Caroline.</strong>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou um Técnica em Informática com experiência em suporte técnico de T.I. 
-  e atualmente sou estudante de Sistemas de Informação. Recentemente, 
-  concluí um curso de Desenvolvimento Web Full-Stack no WebAcademy. 
-  Estou buscando expandir habilidades  e ganhar experiência em desenvolvimento.
+  I'm a computer technician with experience in technical support,
+  and I'm currently studying Information Systems. I recently 
+  completed a Full-Stack Web Development course at WebAcademy. 
+  I'm looking to expand my skills and gain experience in development.
 </p>
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <p align="left">
-  🦄 Linguagens:
+  🦄 Languages:
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="30"/>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  💼 Ferramentas:
+  💼 Tools:
   <img align="center" alt="Ana-GitHub" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   <img align="center" alt="figma" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="postman" width="35" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
- 📚 Estudando: 
+ 📚 Studying: 
  <img align="center" alt="Ana-VueJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
  <img align="center" alt="Ana-ElectronJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
  
@@ -79,9 +79,9 @@ Here are some ideas to get you started:
 </a>
 
 
-## :busts_in_silhouette: Contato
+## :busts_in_silhouette: Contact
 <p align="left">
-  💌 Estou sempre disponível para contato, sinta-se à vontade para entrar em contato comigo por meio dos canais abaixo: ⤵️
+  💌 I'm always available for contact, feel free to get in touch with me via the channels below: ⤵️
 </p>
 
 <p align="left">
