@@ -31,22 +31,23 @@ Here are some ideas to get you started:
 <p align="left">
   🦄 Linguagens:
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ana-C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="30"/>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Java" width=40 height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-
+  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   
 </p><br/>
 
 <p align="left">
-    :star: Frameworks:
+    ⭐ Frameworks:
   <img align="center" alt="Ana-Angular" width=40 height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Ana-nodejs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-          
+  <img align="center" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"  />
+  <img align="center" alt="tailwind" width="40" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+
 </p><br/>
 
 
@@ -54,14 +55,16 @@ Here are some ideas to get you started:
 <p align="left">
   💼 Ferramentas:
   <img align="center" alt="Ana-GitHub" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-  
-   
+  <img align="center" alt="figma" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+  <img align="center" alt="postman" width="35" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+ 
+
 
 </p><br/>
 
 
 <p align="left">
- :memo: Estudando: 
+ 📚 Estudando: 
  <img align="center" alt="Ana-VueJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
  <img align="center" alt="Ana-ElectronJs" width=40 height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
  
