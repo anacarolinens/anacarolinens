@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💜 Hi, I'm <strong>Ana Caroline.</strong>
-
+<h1 align="center">Olá, sou <strong>Ana Caroline 💜</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<br/>
+<br/>
+
 <p align="left"> 
-  I'm a computer technician with experience in technical support,
-  and I'm currently studying Information Systems. I recently 
-  completed a Full-Stack Web Development course at WebAcademy. 
-  I'm looking to expand my skills and gain experience in development.
+Sou Técnica em Informática pelo Instituto Federal do Acre - IFAC, graduanda em Sistemas de Informação pela Universidade Federal do Acre - UFAC, com experiência em suporte técnico. Recentemente concluí um curso de Capacitação em Desenvolvimento  Web Full-Stackno WebAcademy. Estou à procura de expandir as minhas competências para ganhar experiência em desenvolvimento, adiquirindo conhecimentos de Desenvolvimento Web, Front-end, Back-end, Ciência da Computação, Engenharia de Software, metodologias ágeis e habilidades sócio-comportamentais.
 </p>
 
 ## 🚀 My Skills
@@ -65,17 +64,17 @@ Here are some ideas to get you started:
 
 ##  :chart_with_upwards_trend: Status
 
-<a href="https://github.com/anacarolinens">
+<a  align="center" href="https://github.com/anacarolinens">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anacarolinens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anacarolinens&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
 ## :busts_in_silhouette: Contact
-<p align="left">
+<p align="center">
   💌 I'm always available for contact, feel free to get in touch with me via the channels below: ⤵️
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
